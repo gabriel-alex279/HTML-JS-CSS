@@ -17,4 +17,4 @@ Exercícios e exemplos simples feitos em HTML/JS/CSS.
 
 # Meu Site HTML:
 
-[](https://gabriel-alex279.github.io/HTML-JS-CSS/)
+- [🕶️Google Glass](https://gabriel-alex279.github.io/HTML-JS-CSS/)

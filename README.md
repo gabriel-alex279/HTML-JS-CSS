@@ -1,4 +1,4 @@
-# Códigos em HTML/JSS/CSS 🌐
+# Códigos em HTML/JS/CSS 🌐
 
 Exercícios e exemplos simples feitos em HTML/JS/CSS.
 

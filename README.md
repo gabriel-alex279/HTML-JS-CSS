@@ -18,3 +18,21 @@ Exercícios e exemplos simples feitos em HTML/JS/CSS.
 # Meu Site HTML:
 
 - [🕶️Google Glass](https://gabriel-alex279.github.io/HTML-JS-CSS/)
+
+
+
+## Home:
+
+<img width="921" height="609" alt="1" src="https://github.com/user-attachments/assets/42bb0890-3a9e-46b6-a81f-f4911dc4e315" />
+## Especificações:
+
+<img width="921" height="594" alt="2" src="https://github.com/user-attachments/assets/4fc2d61e-4e12-466f-bc7c-505d158ba12b" />
+## Fotos:
+
+<img width="920" height="607" alt="3" src="https://github.com/user-attachments/assets/8a5fef1b-bbd7-406c-b4fe-8b20c50e9be2" />
+## Multimídia:
+
+<img width="921" height="606" alt="4" src="https://github.com/user-attachments/assets/f0301b47-c609-4fab-8b40-6a7920194a2a" />
+## Fale Conosco:
+
+<img width="920" height="606" alt="5" src="https://github.com/user-attachments/assets/7676c0e9-eb8a-43d0-ac64-fdc7501459f9" />

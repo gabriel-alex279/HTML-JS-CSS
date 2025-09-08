@@ -18,6 +18,7 @@ Nesta atividade, você irá criar uma página web que oferece uma experiência i
 ## CHECKLIST:
 
 • Inserir um campo para o usuário digitar um número.
+
 • Calcular a tabuada desse número utilizando JavaScript.
 • Utilizar um loop “for” para gerar as multiplicações de 1 a 10.
 • Exibir dinamicamente os resultados na página usando manipulação do DOM.

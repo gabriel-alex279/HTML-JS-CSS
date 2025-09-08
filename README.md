@@ -15,6 +15,12 @@ Exercícios e exemplos simples feitos em HTML/JS/CSS.
 - [📊Tabela](https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/C%C3%B3digos/Tabela.html)
 - [🎨Texto Colorido e Fonte Estilizada](https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/C%C3%B3digos/Texto%20Colorido%20e%20Fonte%20Estilizada.html)
 
+## Atividades Acadêmicas 🎓
+
+Atividades práticas solicitadas pela minha Faculdade.
+
+- [Atividade Prática - Trabalho Anhanguera - 1]()
+
 # Meu Site HTML:
 
 - [🕶️Google Glass](https://gabriel-alex279.github.io/HTML-JS-CSS/)

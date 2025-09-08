@@ -7,7 +7,7 @@ Compreender e aplicar os conceitos teóricos aprendidos em programação, como v
 
 ## SOLUÇÃO DIGITAL:
 
-• Google Colab
+• [Google Colab](https://colab.google/)
 
 O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem oferecida pelo Google. Ela fornece um ambiente de notebook interativo e colaborativo que permite a criação e execução de código diretamente no navegador, sem a necessidade de configurar ou instalar qualquer software no seu computador.
 

@@ -20,10 +20,15 @@ Nesta atividade, você irá criar uma página web que oferece uma experiência i
 • Inserir um campo para o usuário digitar um número.
 
 • Calcular a tabuada desse número utilizando JavaScript.
+
 • Utilizar um loop “for” para gerar as multiplicações de 1 a 10.
+
 • Exibir dinamicamente os resultados na página usando manipulação do DOM.
+
 • Testar a funcionalidade com diferentes números para verificar a precisão dos cálculos.
+
 • Revisar e refinar a implementação para garantir que todos os requisitos sejam atendidos.
+
 • Preparar a página e os arquivos necessários para submissão ou uso final.
 
 Aqui eu acesso o Google Colab:

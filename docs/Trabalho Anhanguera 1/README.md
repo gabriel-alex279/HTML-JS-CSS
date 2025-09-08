@@ -54,3 +54,7 @@ Mais um exemplo mas desta vez com o número 7:
 ## RESULTADOS DE APRENDIZAGEM:
 
 Essa atividade demonstra como integrar HTML, CSS e JavaScript para criar uma aplicação simples e interativa que utiliza a estrutura de repetição for para gerar e exibir a tabuada de um número escolhido pelo usuário.
+
+## CÓDIGO COMPLETO:
+
+[Clique aqui!](https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/Trabalho%20Anhanguera%201/C%C3%B3digo%20Completo.txt)

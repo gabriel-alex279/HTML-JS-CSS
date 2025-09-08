@@ -1,22 +1,49 @@
-# Códigos em Java ☕
+# Meu Trabalho Anhanguera 1
 
-Exercícios e exemplos simples feitos em Java.
+## OBJETIVOS:
 
-## Índice
+Compreender e aplicar as estruturas de repetições com a finalidade de familiarizar os estudantes com a estrutura “for” em JavaScript. 
+Compreender e aplicar os conceitos teóricos aprendidos em programação, como variáveis, loops e operações matemáticas simples, em um contexto prático e relevante.
 
-- [🧮Tabuada](https://github.com/gabriel-alex279/Java/commit/9a9ef42319a59dee0a0b433f9e62d707d4117d03)
-- [🏅Alistamento](https://github.com/gabriel-alex279/Java/commit/eb8faef5c33f9161c90762440099770edda26474)
-- [💪Maior e Menor Peso](https://github.com/gabriel-alex279/Java/commit/be997106150de5371ef8248e7fc0a5a4473c7862)
-- [🏦Compras no Mercado](https://github.com/gabriel-alex279/Java/commit/09573d35ed22a10e713b9745cd0ed7eb6601f5c1)
-- [💰Empréstimo](https://github.com/gabriel-alex279/Java/commit/189dddcb8584d1111013683e5b8d7cd8d49f507d)
-- [🏧Caixa Eletrônico](https://github.com/gabriel-alex279/Java/commit/a5828563171da36af5934de0a3590228d1f20d4f)
-- [💵Cálculo de Salário Líquido](https://github.com/gabriel-alex279/Java/blob/main/C%C3%A1lculo%20de%20Sal%C3%A1rio%20L%C3%ADquido)
-- [🔢Par e Impar ou Primo](https://github.com/gabriel-alex279/Java/commit/b9b2d0b80bde8c81f7b13a26595dc63705e22f67)
-- [🚗Radar Eletrônico](https://github.com/gabriel-alex279/Java/commit/fadf56b6d98c49be611c1db36eab87be6ae71a68)
-  
-## Atividades Acadêmicas 🎓
+## SOLUÇÃO DIGITAL:
 
-Atividades práticas solicitadas pela minha Faculdade.
+• Google Colab
 
-- [Atividade Prática - Trabalho Anhanguera - 1](https://github.com/gabriel-alex279/Java/commit/9f3bdb1e005021fe30946789614a262678f6e5ea)
-- [Atividade Prática - Trabalho Anhanguera - 2](https://github.com/gabriel-alex279/Java/commit/c2beb6a26114215fea6aac73909cdfc2716f2387)
+O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem oferecida pelo Google. Ela fornece um ambiente de notebook interativo e colaborativo que permite a criação e execução de código diretamente no navegador, sem a necessidade de configurar ou instalar qualquer software no seu computador.
+
+## PROCEDIMENTO/ATIVIDADE PROPOSTA:
+
+Nesta atividade, você irá criar uma página web que oferece uma experiência interativa para gerar tabuadas de multiplicação. Ao abrir a página, os usuários serão guiados a inserir um número de sua escolha entre (1 e 10). A partir desse número, o programa calculará automaticamente e exibirá a tabuada completa desse número, do multiplicador 1 ao 10.
+
+## CHECKLIST:
+
+• Inserir um campo para o usuário digitar um número.
+• Calcular a tabuada desse número utilizando JavaScript.
+• Utilizar um loop “for” para gerar as multiplicações de 1 a 10.
+• Exibir dinamicamente os resultados na página usando manipulação do DOM.
+• Testar a funcionalidade com diferentes números para verificar a precisão dos cálculos.
+• Revisar e refinar a implementação para garantir que todos os requisitos sejam atendidos.
+• Preparar a página e os arquivos necessários para submissão ou uso final.
+
+Aqui eu acesso o Google Colab:
+<img width="1023" height="688" alt="1" src="https://github.com/user-attachments/assets/fe006e96-4506-4abc-b11c-1cd03dba2e0f" />
+
+
+Crio um código simples de uma Tabuada, onde o usuário digita um número entre 1 e 10 e o código faz uma multiplicação do mesmo do 1 ao 10.
+<img width="1023" height="609" alt="2" src="https://github.com/user-attachments/assets/1cd79b35-d409-42b1-9714-4a87b674fc83" />
+
+
+Uma vez iniciado o código, o mesmo mostra um pop-up (prompt) onde o usuário deve digitar um número. No exemplo abaixo, o número inserido foi o 3:
+<img width="1023" height="609" alt="3" src="https://github.com/user-attachments/assets/7bc5b30f-6e4b-4ed8-b6ee-ace697550470" />
+
+
+Com o título de “Gerador de Tabuada Interativo”, o código é executado com sucesso, mostrando na tela o resultado da tabuada o 3 de 1 ao 10:
+<img width="1023" height="609" alt="4" src="https://github.com/user-attachments/assets/634b72af-8466-4d0e-a417-ac26578b2c0a" />
+
+
+Mais um exemplo mas desta vez com o número 7:
+<img width="1023" height="607" alt="5" src="https://github.com/user-attachments/assets/9250642c-21f6-48bb-bf74-5d279882f859" />
+
+## RESULTADOS DE APRENDIZAGEM:
+
+Essa atividade demonstra como integrar HTML, CSS e JavaScript para criar uma aplicação simples e interativa que utiliza a estrutura de repetição for para gerar e exibir a tabuada de um número escolhido pelo usuário.

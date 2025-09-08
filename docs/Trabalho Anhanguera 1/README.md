@@ -1,5 +1,6 @@
 # 👨‍💻Meu Trabalho Anhanguera 1
 
+
 ## OBJETIVOS:
 
 Compreender e aplicar as estruturas de repetições com a finalidade de familiarizar os estudantes com a estrutura “for” em JavaScript. 
@@ -53,3 +54,19 @@ Mais um exemplo mas desta vez com o número 7:
 ## RESULTADOS DE APRENDIZAGEM:
 
 Essa atividade demonstra como integrar HTML, CSS e JavaScript para criar uma aplicação simples e interativa que utiliza a estrutura de repetição for para gerar e exibir a tabuada de um número escolhido pelo usuário.
+
+## CÓDIGO COMPLETO:
+
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Gerador de Tabuada Interativo</h1>
+<div id="saida"></div>
+<script>
+    var num = prompt("Digite um número entre 1 e 10:");
+    for (var i = 1; i <= 10; i++) {
+        document.getElementById("saida").innerHTML += num + " x " + i + " = " + (num * i) + "<br>";
+    }
+</script>
+</body>
+</html>

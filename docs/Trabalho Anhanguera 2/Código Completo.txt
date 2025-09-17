@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Trabalho Anhanguera</title>
+</head>
+<body>
+
+<h1 style="text-align: center;">Meu Trabalho Anhanguera</h1>
+
+<canvas id="Quadradão" width="600" height="400"></canvas>
+
+<script>
+    const canvas = document.getElementById("Quadradão");
+    const ctx = canvas.getContext("2d");
+    let t = 0;
+    let c = 0;
+    function quadrado() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+        let cores= ['blue','yellow','red','green','pink'];
+        ctx.fillStyle = cores[c];
+        ctx.fillRect(t, 50, 150, 150);
+
+        t += 2;
+
+        if (t == 100 || t == 200 || t == 300 || t == 400) c++;
+        if (t == 500) c = 0;
+        if (t > canvas.width) t = 0;
+
+        requestAnimationFrame(quadrado);
+    }
+
+    quadrado();
+</script>
+
+</body>
+</html>

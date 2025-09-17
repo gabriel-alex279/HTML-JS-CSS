@@ -21,11 +21,17 @@ Nesta atividade, você irá criar uma página web que contém uma animação sim
 ## CHECKLIST:
 
 ● Criar um arquivo HTML com um elemento <canvas>.
+
 ● Definir o tamanho do <canvas> e obter o contexto 2D em JavaScript.
+
 ● Desenhar objetos no <canvas> usando métodos apropriados.
+
 ● Implementar um loop de animação com requestAnimationFrame.
+
 ● Atualizar propriedades dos objetos para criar a animação.
+
 ● Adicionar eventos de mouse para interatividade (opcional).
+
 ● Testar e ajustar a animação conforme necessário.
 
 
@@ -56,4 +62,4 @@ Nesta atividade entendi como introduzir o elemento <canvas> do HTML5 e como ele 
 
 ## CÓDIGO COMPLETO:
 
-[Clique aqui!]()
+[Clique aqui!](https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/Trabalho%20Anhanguera%202/C%C3%B3digo%20Completo.txt)

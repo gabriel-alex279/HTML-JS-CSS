@@ -2,7 +2,7 @@
 
 ## OBJETIVOS:
 
-✓ Desenvolver uma animação básica usando o <canvas> e JavaScript, onde objetos se
+✓ Desenvolver uma animação básica usando o "canvas" e JavaScript, onde objetos se
 movem e mudam de cor ao longo do tempo.
 
 
@@ -15,16 +15,16 @@ O Google Colab, ou Colaboratory, é uma plataforma gratuita baseada na nuvem ofe
 
 ## PROCEDIMENTO/ATIVIDADE PROPOSTA:
 
-Nesta atividade, você irá criar uma página web que contém uma animação simples utilizando o elemento <canvas> do HTML5. A animação consistirá em objetos (por exemplo, círculos) que se movem ou mudam de cor ao longo do tempo.
+Nesta atividade, você irá criar uma página web que contém uma animação simples utilizando o elemento "canvas" do HTML5. A animação consistirá em objetos (por exemplo, círculos) que se movem ou mudam de cor ao longo do tempo.
 
 
 ## CHECKLIST:
 
-● Criar um arquivo HTML com um elemento <canvas>.
+● Criar um arquivo HTML com um elemento "canvas".
 
-● Definir o tamanho do <canvas> e obter o contexto 2D em JavaScript.
+● Definir o tamanho do "canvas" e obter o contexto 2D em JavaScript.
 
-● Desenhar objetos no <canvas> usando métodos apropriados.
+● Desenhar objetos no "canvas" usando métodos apropriados.
 
 ● Implementar um loop de animação com requestAnimationFrame.
 
@@ -57,7 +57,7 @@ Agora neste exemplo, o quadrado é rosa:
 
 ## RESULTADOS DE APRENDIZAGEM:
 
-Nesta atividade entendi como introduzir o elemento <canvas> do HTML5 e como ele pode ser utilizado para criar animações simples com o JavaScript.
+Nesta atividade entendi como introduzir o elemento "canvas" do HTML5 e como ele pode ser utilizado para criar animações simples com o JavaScript.
 
 
 ## CÓDIGO COMPLETO:

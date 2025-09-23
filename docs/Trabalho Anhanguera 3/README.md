@@ -63,4 +63,4 @@ Nesta atividade apliquei meus conhecimentos em HTML, CSS e JavaScript para criar
 
 ## CÓDIGO COMPLETO:
 
-(Clique aqui!)[https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/Trabalho%20Anhanguera%203/C%C3%B3digo%20Completo.txt]
+[Clique aqui!](https://github.com/gabriel-alex279/HTML-JS-CSS/blob/master/docs/Trabalho%20Anhanguera%203/C%C3%B3digo%20Completo.txt)

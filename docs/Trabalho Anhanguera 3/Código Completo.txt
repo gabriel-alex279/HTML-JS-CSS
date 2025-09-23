@@ -1,0 +1,85 @@
+from IPython.display import display, HTML
+
+display(HTML('''
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Trabalho Anhanguera 3</title>
+</head>
+<body>
+<h1>JOKENPÔ</h1>
+<button data-jogada="0">Pedra</button>
+<button data-jogada="1">Papel</button>
+<button data-jogada="2">Tesoura</button>
+
+<p id="resultado"></p>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #ececec;
+    text-align: center;
+    padding-top: 50px;
+  }
+
+  button {
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    background-color: #139db5;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  button:hover {
+    background-color: #5f5f5f;
+  }
+
+  #resultado {
+    font-size: 20px;
+    margin-top: 30px;
+    padding: 15px;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgb(19, 157, 181);
+  }
+</style>
+
+<script>
+  const escolhas = ['Pedra', 'Papel', 'Tesoura'];
+
+  document.querySelectorAll('button').forEach(botao => {
+    botao.addEventListener('click', function() {
+      const jogador = parseInt(this.dataset.jogada);
+      const computador = Math.floor(Math.random() * escolhas.length);
+
+      let resultado = "";
+
+      if ((jogador === 0 && computador === 1) ||
+              (jogador === 1 && computador === 2) ||
+              (jogador === 2 && computador === 0)) {
+        resultado = `Você perdeu! Você escolheu ${escolhas[jogador]} e o computador ${escolhas[computador]}.`;
+      }
+      if ((jogador === 2 && computador === 1) ||
+              (jogador === 1 && computador === 0) ||
+              (jogador === 0 && computador === 2)) {
+        resultado = `Você ganhou! Você escolheu ${escolhas[jogador]} e o computador ${escolhas[computador]}.`;
+      }
+      if (jogador === computador) {
+        resultado = `Parece que empatou! Você escolheu ${escolhas[jogador]} e o computador ${escolhas[computador]}.`;
+      }
+      document.getElementById('resultado').textContent = resultado;
+      console.log(resultado);
+    });
+  });
+</script>
+</body>
+</html>
+'''))

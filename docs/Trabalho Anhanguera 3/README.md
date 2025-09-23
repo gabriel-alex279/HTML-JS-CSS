@@ -53,9 +53,6 @@ Finalmente, na última opção das três, eu escolho papel. Finalmente eu venci:
 <img width="1023" height="607" alt="7" src="https://github.com/user-attachments/assets/b54224f1-ceeb-4927-ba62-655c81de7ea0" />
 
 
-Agora neste exemplo, o quadrado é rosa:
-
-
 ## RESULTADOS DE APRENDIZAGEM:
 
 Nesta atividade apliquei meus conhecimentos em HTML, CSS e JavaScript para criar um jogo de "Jokenpô". Tive a oportunidade de praticar a manipulação de eventos HTML5 para interações do usuário e de explorar o uso de transições CSS para melhorar a experiência visual do jogo e expandir o projeto, adicionando novas funcionalidades e personalizações para enriquecer ainda mais a experiência de jogo.

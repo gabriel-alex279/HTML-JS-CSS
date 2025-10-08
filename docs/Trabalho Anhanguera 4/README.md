@@ -34,27 +34,32 @@ Desenvolver um site simples utilizando Angular, focando na criação de componen
 
 
 
-
 Aqui eu vejo a versão do Node e do npm:
+<img width="1023" height="727" alt="Tab1" src="https://github.com/user-attachments/assets/86748e0b-6489-405a-a375-6678136bb7aa" />
 
 
 Faço a instalação do angular CLI:
+<img width="1023" height="726" alt="Tab2" src="https://github.com/user-attachments/assets/428aebfe-59c7-4c88-8770-cf78c9904448" />
 
 
 Crio um projeto chamado meu-trabalho-anhanguera:
+<img width="1023" height="727" alt="Tab3" src="https://github.com/user-attachments/assets/2b1b3f76-5e5c-4199-8368-49daa64b2f1b" />
 
 
 Acesso meu projeto e crio um componente chamado trabalho:
+<img width="1023" height="729" alt="Tab4" src="https://github.com/user-attachments/assets/2fdbd65f-7989-4a94-86b9-ea8ece959d4c" />
 
 
 Crio meu modulo chamado trabalho:
+<img width="1023" height="728" alt="Tab5" src="https://github.com/user-attachments/assets/ae4bf05e-52d6-408f-a255-3728bfe8a489" />
 
 
 Executo o código “npm start” e o mesmo inicia em um servidor de desenvolvimento:
+<img width="1023" height="729" alt="Tab6" src="https://github.com/user-attachments/assets/9a14ff17-987b-45b9-af9e-6dab1141a8aa" />
 
 
 Visualizo meu projeto no navegador: http://localhost:4200/:
-
+<img width="1023" height="691" alt="Tab7" src="https://github.com/user-attachments/assets/8c955441-803f-460b-8d27-f2dc99daab71" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:

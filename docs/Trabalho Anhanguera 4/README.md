@@ -59,7 +59,7 @@ Executo o código “npm start” e o mesmo inicia em um servidor de desenvolvim
 
 
 Visualizo meu projeto no navegador: http://localhost:4200/:
-<img width="1023" height="691" alt="Tab7" src="https://github.com/user-attachments/assets/8c955441-803f-460b-8d27-f2dc99daab71" />
+<img width="1023" height="606" alt="Tab8" src="https://github.com/user-attachments/assets/a5bea5aa-a4b8-4062-8943-a76b6f2c264f" />
 
 
 ## RESULTADOS DE APRENDIZAGEM:
